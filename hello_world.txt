@@ -1,1 +1,2 @@
 Some test text for learning git.
+Now to test git commit instead of git commit -m "commit message here".
